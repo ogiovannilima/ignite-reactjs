@@ -1,5 +1,7 @@
-import React from 'react';
+import './styles/global.scss';
 
 export function App(){
-    return <h1>Ta me escutando adriano?</h1>
+    // throw new Error('Cade meu chinelo?')
+
+    return <h1>oi adriano, Ta me ouvindo??</h1>
 }
